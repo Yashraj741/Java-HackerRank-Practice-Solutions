@@ -10,5 +10,6 @@ public class Java_stdin_stdout_2{
         System.out.println("String: "+str);
         System.out.println("Double: "+pi);
         System.out.println("Int: "+num);
+        sc.close();
     }
 }
